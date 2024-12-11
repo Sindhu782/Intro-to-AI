@@ -1,4 +1,4 @@
-# Intro-to-AI
+# Intro-to-AI Project 
 T3 Agent Tournament(Tic-Tac-Toe)
 
 # Introduction:
