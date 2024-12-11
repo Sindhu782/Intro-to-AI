@@ -8,8 +8,8 @@ Tic Tac Toe is a classic two-player game played on a square grid. Each player, r
 The project features four distinct agents, each employing a different strategy to play Tic Tac Toe effectively are 
 Minimax Agent ,
 Alpha-Beta Pruning Minimax Agent , 
-Expectimax Agent ,
-Q-Learning Agent ,
+Expectimax Agent and 
+Q-Learning Agent .
 
 # How to Run the Code:
 
