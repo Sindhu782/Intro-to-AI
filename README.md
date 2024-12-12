@@ -1,6 +1,6 @@
 # Intro-to-AI Project 
 T3 Agent Tournament(Tic-Tac-Toe)
-![Image]https://github.com/Sindhu782/Intro-to-AI/blob/main/tic%20tac%20toe.webp
+![Image](https://github.com/Sindhu782/Intro-to-AI/blob/main/tic%20tac%20toe.webp)
 # Introduction:
 Tic-Tac-Toe is a classic two-player game where players alternate marking spaces on a 3x3 grid with their symbol (X or O). The first player to form a line of three of their symbols horizontally, vertically, or diagonally wins. This implementation expands on the classic game by introducing a tournament format where various AI agents compete against each other.
 
