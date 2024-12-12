@@ -2,7 +2,7 @@
 T3 Agent Tournament(Tic-Tac-Toe)
 
 # Introduction:
-Tic Tac Toe is a classic two-player game played on a square grid. Each player, represented by X or O, aims to achieve their symbol in an entire row, column, or diagonal to win. This implementation introduces a tournament setting where various intelligent agents compete against each other in the game.
+Tic-Tac-Toe is a classic two-player game where players alternate marking spaces on a 3x3 grid with their symbol (X or O). The first player to form a line of three of their symbols horizontally, vertically, or diagonally wins. This implementation expands on the classic game by introducing a tournament format where various AI agents compete against each other.
 
 # Implemented Agents:
 The project features four distinct agents, each employing a different strategy to play Tic Tac Toe effectively are 
